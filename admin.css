@@ -1,0 +1,34 @@
+div.fppp_admin_section
+{
+    padding: 0 0 0 10px;
+}
+
+#fppp_admin_font_title, #fppp_admin_font_choice, #fppp_admin_font_perc
+{
+    float: left;
+    margin-right: 40px;
+}
+
+
+
+table.logs
+{
+    border: 1px solid #666;
+    border-top: 1px solid #666;
+}
+
+table.logs th
+{
+    background-color: #ccc;
+    padding: 10px;
+    border-bottom: 1px solid #aaa;
+    border-right: 1px solid #aaa;
+}
+
+table.logs td
+{
+    padding: 10px;
+    border-bottom: 1px solid #aaa;
+    border-right: 1px solid #aaa;
+    font-size: 11px;
+}
